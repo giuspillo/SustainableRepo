@@ -1,5 +1,0 @@
-n_users,n_items,n_inter,sparsity,kg_entities,kg_relations,kg_triples,kg_items,cpu_cores,ram_size,is_gpu,model_name,model_type,emissions
-6036,3192,946772,0.955316374,79347,49,385923,3655,32,16,1,ItemKNN,general,1.11E-5
-6036,3192,946772,0.955316374,79347,49,385923,3655,32,16,1,LightGCN,general,5.68E-05
-6036,3192,946772,0.955316374,79347,49,385923,3655,32,16,1,NGCF,general,7.95E-05
-6036,3192,946772,0.955316374,79347,49,385923,3655,32,16,1,DGCF,general,0.000755528
